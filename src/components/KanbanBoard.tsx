@@ -96,7 +96,7 @@ const KanbanBoard = () => {
                   <div
                     ref={provided.innerRef}
                     {...provided.droppableProps}
-                    className={`p-4 rounded-md shadow-md min-h-[500px] max-h-[500px] overflow-y-auto transition-all ${
+                    className={`p-4 rounded-md shadow-md min-h-[500px] max-h-[500px] transition-all ${
                       snapshot.isDraggingOver
                         ? "bg-purple-100 border border-purple-300"
                         : "bg-gray-200"
