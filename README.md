@@ -13,6 +13,7 @@ The **Kanban Task Manager** is a simple and interactive task management app that
 ✅ **Drag & Drop** – Move tasks between "Todo," "In Progress," "Done," and "Testing" with smooth animations.  
 ✅ **Search Tasks** – Quickly find tasks by title using the search bar.  
 ✅ **Delete Tasks** – Remove tasks instantly.
+
 ✅ **Responsive UI** – Fully responsive and optimized for mobile, tablet, and desktop.  
 
 ## **Tech Stack**  
